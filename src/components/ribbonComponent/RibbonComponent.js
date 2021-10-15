@@ -2,7 +2,11 @@ import "./ribbon.css";
 const RibbonComponent = () => {
   return (
     <div className="ribbon ribbon-top-right">
-      <span>
+      <span
+        title="🎃Happy Halloween!🎃"
+        data-toggle="tooltip"
+        data-placement="left"
+      >
         <svg
           className="picture-ribbon"
           version="1.1"
