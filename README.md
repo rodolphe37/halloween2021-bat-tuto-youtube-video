@@ -6,5 +6,7 @@ Repo for "How to create bat with svg/html/css in ~15 mins" youtube tuto movie.
 
 [Live Demo site is Here](https://demo-bat-tuto-youtube.netlify.app/)
 
+![bat-tutorial](/demo.gif)
+
 
 
