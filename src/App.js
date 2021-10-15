@@ -1,10 +1,12 @@
 import logo from "./logo.svg";
 import "./App.css";
 import Bat from "./components/bat/Bat";
+import RibbonComponent from "./components/ribbonComponent/RibbonComponent";
 
 function App() {
   return (
     <div className="App">
+      <RibbonComponent />
       <Bat />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
